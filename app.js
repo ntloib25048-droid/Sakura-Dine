@@ -60,7 +60,7 @@ if (footer) {
                 <div class="footer-grid">
                     <div>
                         <a href="index.html" class="footer-logo-box">
-                            <img src="assets/SakuraDineNoBG.png"
+                            <img src="assets/SakuraDineWhiteNoBG2.png"
                                  alt="Sakura Dine Logo">
                         </a>
 
